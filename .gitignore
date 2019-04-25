@@ -1,5 +1,6 @@
 # Autotools
 .deps
+.dirstamp
 .libs
 Makefile
 Makefile.in
@@ -13,6 +14,7 @@ install-sh
 libtool
 ltmain.sh
 missing
+/m4
 
 # C compile artifacts
 *.la
