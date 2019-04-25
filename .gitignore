@@ -1,0 +1,23 @@
+# Autotools
+.deps
+.libs
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache
+compile
+config.*
+configure
+depcomp
+install-sh
+libtool
+ltmain.sh
+missing
+
+# C compile artifacts
+*.la
+*.lo
+*.o
+
+# Executable output
+plugintest
