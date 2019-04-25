@@ -12,3 +12,9 @@ If you wish to install, you can issue the final:
 ```
 make install
 ```
+
+## Run the example
+After building, you can run the example program with:
+```
+./plugintest
+```
